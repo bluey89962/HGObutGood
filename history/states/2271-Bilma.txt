@@ -1,9 +1,22 @@
 state={
 	id=2271
 	name="STATE_2271"
+	
+	history={
+		owner = FRA
+		buildings = {
+			infrastructure = 0
+
+		}
+
+	}
+	
 	provinces={
 		13863 
 	}
-	manpower=0
+	
+	manpower=918
 	buildings_max_level_factor=1.000
+	state_category = wasteland
+	impassable = yes
 }
