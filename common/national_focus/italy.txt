@@ -1582,11 +1582,19 @@ focus_tree = {
 		}
 
 		completion_reward = {
+			add_state_claim = 805
 			add_state_claim = 1129
 			add_state_claim = 1232
+			add_state_claim = 932
+			add_state_claim = 1220
+			add_state_claim = 1233
+			add_state_claim = 812
+			add_state_claim = 1215
+			add_state_claim = 813
+			add_state_claim = 115
 			add_state_claim = 103
-			add_state_claim = 1031
-			add_state_claim = 805
+			add_state_claim = 802
+			add_state_claim = 1311
 			add_named_threat = { threat = 4 name = ITA_slovenia_dalmatia_claims_threat }
 			YUG = {
 				add_opinion_modifier = { target = ITA modifier = claimed_western_yugoslavia }
