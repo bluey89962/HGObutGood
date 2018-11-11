@@ -3,20 +3,19 @@ state={
 	name="STATE_2270"
 	
 	history={
-		owner = CZE
+		owner = ENG
 		buildings = {
-			infrastructure = 2
+			infrastructure = 4
 
 		}
-		add_core_of = CZE
 
 	}
 	
 	provinces={
-		13870
+		13864 
 	}
 	
-	manpower=23198
+	manpower=9287
 	buildings_max_level_factor=1.000
-	state_category = city
+	state_category = rural
 }
