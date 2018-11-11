@@ -3,21 +3,21 @@ state={
 	name="STATE_2272"
 	
 	history={
-		owner = SAF
+		owner = CZE
 		buildings = {
 			infrastructure = 2
 
 		}
-		add_core_of = SAF
-		add_core_of = NAM
+		add_core_of = CZE
+		add_core_of = SLO
 
 	}
 	
 	provinces={
-		13862 
+		13867
 	}
 	
-	manpower=41253
+	manpower=23198
 	buildings_max_level_factor=1.000
-	state_category = rural
+	state_category = city
 }

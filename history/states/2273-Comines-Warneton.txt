@@ -3,21 +3,21 @@ state={
 	name="STATE_2273"
 	
 	history={
-		owner = SAF
+		owner = BEL
 		buildings = {
 			infrastructure = 2
 
 		}
-		add_core_of = SAF
-		add_core_of = NAM
+		add_core_of = BEL
+		add_core_of = WLL
 
 	}
 	
 	provinces={
-		13859 
+		13872
 	}
 	
-	manpower=31899
+	manpower=23198
 	buildings_max_level_factor=1.000
-	state_category = wasteland
+	state_category = city
 }

@@ -1,22 +1,23 @@
 state={
-	id=2275
-	name="STATE_2275"
+	id=2272
+	name="STATE_2272"
 	
 	history={
-		owner = ENG
+		owner = CZE
 		buildings = {
 			infrastructure = 2
 
 		}
-		add_core_of = BOT
+		add_core_of = CZE
+		add_core_of = SLO
 
 	}
 	
 	provinces={
-		13861 
+		13866
 	}
 	
 	manpower=23198
 	buildings_max_level_factor=1.000
-	state_category = wasteland
+	state_category = city
 }
