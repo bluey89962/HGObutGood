@@ -1,10 +1,10 @@
+
 state={
 	id=835
 	name="STATE_835"
-
-	resources ={
-		oil=10
-		steel=13
+	resources={
+		oil=10.000
+		steel=13.000
 	}
 
 	history={
@@ -17,10 +17,6 @@ state={
 		}
 		buildings = {
 			infrastructure = 7
-			485 = {
-				naval_base = 1
-
-			}
 
 		}
 		add_core_of = FRA
@@ -29,7 +25,7 @@ state={
 	}
 
 	provinces={
-		485 6569 9434 11563 
+		6569 9434 11563 
 	}
 	manpower=915628
 	buildings_max_level_factor=1.000

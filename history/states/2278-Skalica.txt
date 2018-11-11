@@ -1,0 +1,23 @@
+
+state={
+	id=2278
+	name="STATE_2278"
+
+	history={
+		owner = CZE
+		buildings = {
+			infrastructure = 2
+
+		}
+		add_core_of = CZE
+		add_core_of = SLO
+
+	}
+
+	provinces={
+		13877 
+	}
+	manpower=23198
+	buildings_max_level_factor=1.000
+	state_category=city
+}
