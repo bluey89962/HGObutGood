@@ -1,22 +1,22 @@
 
 state={
-	id=1776
-	name="STATE_1776"
+	id=2284
+	name="STATE_2284"
 
 	history={
-		owner = GRE
+		owner = TUR
 		buildings = {
-			infrastructure = 5
+			infrastructure = 2
 
 		}
-		add_core_of = GRE
+		add_core_of = TUR
 
 	}
 
 	provinces={
-		1109 
+		13957 979
 	}
-	manpower=325138
+	manpower=23198
 	buildings_max_level_factor=1.000
 	state_category=city
 }
