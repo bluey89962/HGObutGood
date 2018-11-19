@@ -1,4 +1,4 @@
-﻿l_english:
+﻿ l_english:
 
  ROM_unified:0 "Greater Romania"
  ROM_unified_democratic:0 "Greater Romania"
@@ -247,3 +247,15 @@
  
  RUPBA_neutrality:0 "United Kingdom of Portugal, Brazil and the Algarves"
  RUPBA_neutrality_DEF:0 "Portugese"
+ 
+ VLD_GER_fascism_autonomy_reichskommissariat:0 "Reichskommissariat Hindenburg"
+ VLD_GER_fascism_autonomy_reichsprotectorate:0 "Reichsprotektorat Hindenburg"
+ VLD_GER_fascism_autonomy_reichskommissariat_DEF:0 "the Reichskommissariat Hindenburg"
+ VLD_GER_fascism_autonomy_reichsprotectorate_DEF:0 "the Reichsprotektorat Hindenburg"
+ 
+ FIN_KAR_neutrality:0 "Autonomous Karelia"
+ 
+ ALI_GER_fascism_autonomy_reichskommissariat:0 "Reichskommissariat Altai"
+ VLD_GER_fascism_autonomy_reichsprotectorate:0 "Reichsprotektorat Hindenburg"
+ VLD_GER_fascism_autonomy_reichskommissariat_DEF:0 "the Reichskommissariat Hindenburg"
+ VLD_GER_fascism_autonomy_reichsprotectorate_DEF:0 "the Reichsprotektorat Hindenburg"
