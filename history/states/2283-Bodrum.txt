@@ -1,20 +1,20 @@
 
 state={
-	id=1776
-	name="STATE_1776"
+	id=2283
+	name="STATE_2283"
 
 	history={
-		owner = GRE
+		owner = TUR
 		buildings = {
 			infrastructure = 2
 
 		}
-		add_core_of = GRE
+		add_core_of = TUR
 
 	}
 
 	provinces={
-		1109
+		9941 10038
 	}
 	manpower=23198
 	buildings_max_level_factor=1.000
