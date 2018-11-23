@@ -1,4 +1,4 @@
-﻿l_english:
+﻿ l_english:
  STATE_1:0 "Corsica"
  STATE_2:0 "Lazio"
  STATE_3:0 "Switzerland"
@@ -210,7 +210,7 @@
  STATE_209:0 "Pskov"
  STATE_210:0 "Nevel"
  STATE_211:0 "Burgas"
- STATE_212:0 "Plovdiv"
+ STATE_212:0 "Asenovgrad"
  STATE_213:0 "Murmansk"
  STATE_214:0 "Arkhangelsk"
  STATE_215:0 "Onega"
@@ -2282,3 +2282,9 @@
  STATE_2277:0 "Comines-Warneton"
  STATE_2278:0 "Skalica"
  STATE_2279:0 "Bratislava"
+ STATE_2280:0 "Plovdiv"
+ STATE_2281:0 "Aydin"
+ STATE_2282:0 "Marmaris"
+ STATE_2283:0 "Bodrum"
+ STATE_2284:0 "Inebolu"
+ STATE_2285:0 "Itea"
