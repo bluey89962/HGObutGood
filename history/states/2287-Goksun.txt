@@ -1,0 +1,21 @@
+state={
+	id=2287
+	name="STATE_2287"
+
+        state_category=rural 
+
+        history={
+                owner = TUR
+                buildings = {
+                        infrastructure = 4
+                }
+                add_core_of = TUR
+
+        }
+
+	provinces={
+		13931 13934 13938 
+	}
+	manpower=40000
+	buildings_max_level_factor=1.000
+}
