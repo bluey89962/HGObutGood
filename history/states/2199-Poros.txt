@@ -1,3 +1,4 @@
+
 state={
 	id=2199
 	name="STATE_2199"
@@ -6,13 +7,14 @@ state={
 		owner = GRE
 		buildings = {
 			infrastructure = 6
+
 		}
 		add_core_of = GRE
 
 	}
-	
+
 	provinces={
-		13683 
+		13683 13932 
 	}
 	manpower=45000
 	buildings_max_level_factor=1.000

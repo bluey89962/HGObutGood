@@ -1,3 +1,4 @@
+
 state={
 	id=2206
 	name="STATE_2206"
@@ -11,9 +12,9 @@ state={
 		add_core_of = GRE
 
 	}
-	
+
 	provinces={
-		13648 
+		9837 13648 
 	}
 	manpower=14854
 	buildings_max_level_factor=1.000
