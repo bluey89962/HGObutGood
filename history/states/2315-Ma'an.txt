@@ -1,0 +1,21 @@
+state={
+	id=2315
+	name="STATE_2315"
+	
+	history={
+		owner = SAU
+		buildings = {
+			infrastructure = 1
+			}
+		add_core_of = SAU
+		add_core_of = JOR
+		}
+	
+	provinces={
+		13908 
+	}
+	
+	manpower=2181
+	buildings_max_level_factor=1.000
+	state_category = wasteland
+}

@@ -135,6 +135,7 @@ From;To;Type;Through;start_x;start_y;stop_x;stop_y;adjacency_rule_name;Comment
 2455;2506;;-1;-1;-1;-1;-1;DANISH_BELTS_STRAIT;Øresund
 5412;7678;;-1;-1;-1;-1;-1;BOSPHORUS_STRAIT;Bosphorus
 13208;10791;sea;2691;-1;-1;-1;-1;;Bahrain-Saudi
+13208;8051;sea;2691;-1;-1;-1;-1;;Bahrain-Qatar
 7683;13225;sea;8642;-1;-1;-1;-1;;Anticosti Island
 7810;12698;sea;2935;-1;-1;-1;-1;;Newfundland
 13718;8435;sea;7452;-1;-1;-1;-1;;Aegean
