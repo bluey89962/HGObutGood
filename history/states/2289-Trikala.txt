@@ -1,9 +1,22 @@
 state={
 	id=2289
 	name="STATE_2289"
+	
+	history={
+		owner = GRE
+		buildings = {
+			infrastructure = 4
+
+		}
+		add_core_of = GRE
+
+	}
+	
 	provinces={
 		13950 13951 13956 
 	}
+	
 	manpower=0
 	buildings_max_level_factor=1.000
+	state_category=rural
 }

@@ -2,14 +2,14 @@ state={
 	id=2287
 	name="STATE_2287"
 
-        state_category=rural 
+    state_category=rural 
 
         history={
-                owner = TUR
+                owner = GRE
                 buildings = {
                         infrastructure = 4
                 }
-                add_core_of = TUR
+                add_core_of = GRE
 
         }
 
